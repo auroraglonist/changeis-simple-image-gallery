@@ -1,1 +1,6 @@
-# changeis-simple-image-gallery
+# React Image Gallery
+
+## Installation
+
+```bash
+npm install
